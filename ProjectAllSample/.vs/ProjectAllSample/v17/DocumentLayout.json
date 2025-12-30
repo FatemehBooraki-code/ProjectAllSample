@@ -1,13 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Ara.soft\\source\\repos\\ProjectAllSample\\ProjectAllSample\\",
+  "WorkspaceRootPath": "C:\\Users\\Elham\\Documents\\GitHub\\ProjectAllSample\\ProjectAllSample\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3C38EEB9-D318-4772-B033-1955C4B7C5CB}|ProjectAllSample\\ProjectAllSample.csproj|c:\\users\\ara.soft\\source\\repos\\projectallsample\\projectallsample\\projectallsample\\models\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3C38EEB9-D318-4772-B033-1955C4B7C5CB}|ProjectAllSample\\ProjectAllSample.csproj|c:\\users\\elham\\documents\\github\\projectallsample\\projectallsample\\projectallsample\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C38EEB9-D318-4772-B033-1955C4B7C5CB}|ProjectAllSample\\ProjectAllSample.csproj|solutionrelative:projectallsample\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C38EEB9-D318-4772-B033-1955C4B7C5CB}|ProjectAllSample\\ProjectAllSample.csproj|c:\\users\\elham\\documents\\github\\projectallsample\\projectallsample\\projectallsample\\models\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3C38EEB9-D318-4772-B033-1955C4B7C5CB}|ProjectAllSample\\ProjectAllSample.csproj|solutionrelative:projectallsample\\models\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3C38EEB9-D318-4772-B033-1955C4B7C5CB}|ProjectAllSample\\ProjectAllSample.csproj|c:\\users\\ara.soft\\source\\repos\\projectallsample\\projectallsample\\projectallsample\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3C38EEB9-D318-4772-B033-1955C4B7C5CB}|ProjectAllSample\\ProjectAllSample.csproj|c:\\users\\elham\\documents\\github\\projectallsample\\projectallsample\\projectallsample\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3C38EEB9-D318-4772-B033-1955C4B7C5CB}|ProjectAllSample\\ProjectAllSample.csproj|solutionrelative:projectallsample\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -18,15 +22,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Author.cs",
+              "DocumentMoniker": "C:\\Users\\Elham\\Documents\\GitHub\\ProjectAllSample\\ProjectAllSample\\ProjectAllSample\\Models\\Author.cs",
+              "RelativeDocumentMoniker": "ProjectAllSample\\Models\\Author.cs",
+              "ToolTip": "C:\\Users\\Elham\\Documents\\GitHub\\ProjectAllSample\\ProjectAllSample\\ProjectAllSample\\Models\\Author.cs",
+              "RelativeToolTip": "ProjectAllSample\\Models\\Author.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T14:49:08.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Member.cs",
-              "DocumentMoniker": "C:\\Users\\Ara.soft\\source\\repos\\ProjectAllSample\\ProjectAllSample\\ProjectAllSample\\Models\\Member.cs",
+              "DocumentMoniker": "C:\\Users\\Elham\\Documents\\GitHub\\ProjectAllSample\\ProjectAllSample\\ProjectAllSample\\Models\\Member.cs",
               "RelativeDocumentMoniker": "ProjectAllSample\\Models\\Member.cs",
-              "ToolTip": "C:\\Users\\Ara.soft\\source\\repos\\ProjectAllSample\\ProjectAllSample\\ProjectAllSample\\Models\\Member.cs",
+              "ToolTip": "C:\\Users\\Elham\\Documents\\GitHub\\ProjectAllSample\\ProjectAllSample\\ProjectAllSample\\Models\\Member.cs",
               "RelativeToolTip": "ProjectAllSample\\Models\\Member.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -35,16 +56,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Book.cs",
-              "DocumentMoniker": "C:\\Users\\Ara.soft\\source\\repos\\ProjectAllSample\\ProjectAllSample\\ProjectAllSample\\Models\\Book.cs",
+              "DocumentMoniker": "C:\\Users\\Elham\\Documents\\GitHub\\ProjectAllSample\\ProjectAllSample\\ProjectAllSample\\Models\\Book.cs",
               "RelativeDocumentMoniker": "ProjectAllSample\\Models\\Book.cs",
-              "ToolTip": "C:\\Users\\Ara.soft\\source\\repos\\ProjectAllSample\\ProjectAllSample\\ProjectAllSample\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\Elham\\Documents\\GitHub\\ProjectAllSample\\ProjectAllSample\\ProjectAllSample\\Models\\Book.cs",
               "RelativeToolTip": "ProjectAllSample\\Models\\Book.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-30T09:55:19.675Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-30T09:55:19.675Z"
             }
           ]
         }
