@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ara.soft\\source\\repos\\ProjectAllSample\\ProjectAllSample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3C38EEB9-D318-4772-B033-1955C4B7C5CB}|ProjectAllSample\\ProjectAllSample.csproj|c:\\users\\ara.soft\\source\\repos\\projectallsample\\projectallsample\\projectallsample\\models\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C38EEB9-D318-4772-B033-1955C4B7C5CB}|ProjectAllSample\\ProjectAllSample.csproj|solutionrelative:projectallsample\\models\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C38EEB9-D318-4772-B033-1955C4B7C5CB}|ProjectAllSample\\ProjectAllSample.csproj|c:\\users\\ara.soft\\source\\repos\\projectallsample\\projectallsample\\projectallsample\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C38EEB9-D318-4772-B033-1955C4B7C5CB}|ProjectAllSample\\ProjectAllSample.csproj|solutionrelative:projectallsample\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Member.cs",
+              "DocumentMoniker": "C:\\Users\\Ara.soft\\source\\repos\\ProjectAllSample\\ProjectAllSample\\ProjectAllSample\\Models\\Member.cs",
+              "RelativeDocumentMoniker": "ProjectAllSample\\Models\\Member.cs",
+              "ToolTip": "C:\\Users\\Ara.soft\\source\\repos\\ProjectAllSample\\ProjectAllSample\\ProjectAllSample\\Models\\Member.cs",
+              "RelativeToolTip": "ProjectAllSample\\Models\\Member.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T10:00:00.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\Ara.soft\\source\\repos\\ProjectAllSample\\ProjectAllSample\\ProjectAllSample\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "ProjectAllSample\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\Ara.soft\\source\\repos\\ProjectAllSample\\ProjectAllSample\\ProjectAllSample\\Models\\Book.cs",
+              "RelativeToolTip": "ProjectAllSample\\Models\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T09:55:19.675Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
