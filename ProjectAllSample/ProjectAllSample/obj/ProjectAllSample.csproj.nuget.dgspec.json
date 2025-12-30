@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Smart\\Documents\\GitHub\\ProjectAllSample\\ProjectAllSample\\ProjectAllSample\\ProjectAllSample.csproj": {}
+    "C:\\Users\\ASUS\\OneDrive\\Documents\\GitHub\\ProjectAllSample\\ProjectAllSample\\ProjectAllSample\\ProjectAllSample.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Smart\\Documents\\GitHub\\ProjectAllSample\\ProjectAllSample\\ProjectAllSample\\ProjectAllSample.csproj": {
+    "C:\\Users\\ASUS\\OneDrive\\Documents\\GitHub\\ProjectAllSample\\ProjectAllSample\\ProjectAllSample\\ProjectAllSample.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Smart\\Documents\\GitHub\\ProjectAllSample\\ProjectAllSample\\ProjectAllSample\\ProjectAllSample.csproj",
+        "projectUniqueName": "C:\\Users\\ASUS\\OneDrive\\Documents\\GitHub\\ProjectAllSample\\ProjectAllSample\\ProjectAllSample\\ProjectAllSample.csproj",
         "projectName": "ProjectAllSample",
-        "projectPath": "C:\\Users\\Smart\\Documents\\GitHub\\ProjectAllSample\\ProjectAllSample\\ProjectAllSample\\ProjectAllSample.csproj",
-        "packagesPath": "C:\\Users\\Smart\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Smart\\Documents\\GitHub\\ProjectAllSample\\ProjectAllSample\\ProjectAllSample\\obj\\",
+        "projectPath": "C:\\Users\\ASUS\\OneDrive\\Documents\\GitHub\\ProjectAllSample\\ProjectAllSample\\ProjectAllSample\\ProjectAllSample.csproj",
+        "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ASUS\\OneDrive\\Documents\\GitHub\\ProjectAllSample\\ProjectAllSample\\ProjectAllSample\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Smart\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -49,7 +49,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -61,7 +62,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.428\\RuntimeIdentifierGraph.json"
         }
       }
     }
