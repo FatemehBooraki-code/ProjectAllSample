@@ -6,7 +6,7 @@ namespace ProjectAllSample.Models
     public class Member
     {
         [Key]
-        public int Id { get; set; }
+        public int MemberId { get; set; }
 
         [DisplayName("نام و نام خانوادگی")]
         [Required(ErrorMessage = "لطفا {0} را وارد کنید")]
@@ -32,5 +32,10 @@ namespace ProjectAllSample.Models
         [DisplayName("تاریخ عضویت")]
         [Required(ErrorMessage = "لطفا {0} را وارد کنید")]
         public DateTime RegisterDate { get; set; }
+
+
+        #region Relations
+        public virtual ICollection<Loans> Loans { get; set; }
+        #endregion
     }
 }

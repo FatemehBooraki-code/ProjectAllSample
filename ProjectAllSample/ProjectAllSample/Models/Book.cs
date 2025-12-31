@@ -6,7 +6,7 @@ namespace ProjectAllSample.Models
     public class Book
     {
         [Key]
-        public int Id { get; set; }
+        public int BookId { get; set; }
 
         [Display(Name = "عنوان کتاب")]
         [Required(ErrorMessage = "وارد کردن عنوان کتاب الزامی است.")]
@@ -32,5 +32,10 @@ namespace ProjectAllSample.Models
         [Required(ErrorMessage = "وارد کردن تعداد موجود الزامی است.")]
         [Range(0, 10000, ErrorMessage = "تعداد موجود باید بین ۰ تا ۱۰۰۰۰ باشد.")]
         public int AvailableCount { get; set; }
+
+
+        #region Relations
+        public virtual ICollection<Loans> Loans { get; set; }
+        #endregion
     }
 }
