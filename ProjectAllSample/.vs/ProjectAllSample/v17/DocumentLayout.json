@@ -1,22 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\PRCO\\Documents\\GitHub\\ProjectAllSample\\ProjectAllSample\\",
+  "WorkspaceRootPath": "C:\\Users\\Ara.soft\\source\\repos\\ProjectAllSample\\ProjectAllSample\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3C38EEB9-D318-4772-B033-1955C4B7C5CB}|ProjectAllSample\\ProjectAllSample.csproj|c:\\users\\prco\\documents\\github\\projectallsample\\projectallsample\\projectallsample\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C38EEB9-D318-4772-B033-1955C4B7C5CB}|ProjectAllSample\\ProjectAllSample.csproj|solutionrelative:projectallsample\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3C38EEB9-D318-4772-B033-1955C4B7C5CB}|ProjectAllSample\\ProjectAllSample.csproj|c:\\users\\prco\\documents\\github\\projectallsample\\projectallsample\\projectallsample\\models\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C38EEB9-D318-4772-B033-1955C4B7C5CB}|ProjectAllSample\\ProjectAllSample.csproj|solutionrelative:projectallsample\\models\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3C38EEB9-D318-4772-B033-1955C4B7C5CB}|ProjectAllSample\\ProjectAllSample.csproj|c:\\users\\prco\\documents\\github\\projectallsample\\projectallsample\\projectallsample\\models\\loans.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C38EEB9-D318-4772-B033-1955C4B7C5CB}|ProjectAllSample\\ProjectAllSample.csproj|solutionrelative:projectallsample\\models\\loans.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3C38EEB9-D318-4772-B033-1955C4B7C5CB}|ProjectAllSample\\ProjectAllSample.csproj|c:\\users\\prco\\documents\\github\\projectallsample\\projectallsample\\projectallsample\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C38EEB9-D318-4772-B033-1955C4B7C5CB}|ProjectAllSample\\ProjectAllSample.csproj|solutionrelative:projectallsample\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3C38EEB9-D318-4772-B033-1955C4B7C5CB}|ProjectAllSample\\ProjectAllSample.csproj|c:\\users\\ara.soft\\source\\repos\\projectallsample\\projectallsample\\projectallsample\\migrations\\20260101135108_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C38EEB9-D318-4772-B033-1955C4B7C5CB}|ProjectAllSample\\ProjectAllSample.csproj|solutionrelative:projectallsample\\migrations\\20260101135108_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,62 +14,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Loans.cs",
-              "DocumentMoniker": "C:\\Users\\PRCO\\Documents\\GitHub\\ProjectAllSample\\ProjectAllSample\\ProjectAllSample\\Models\\Loans.cs",
-              "RelativeDocumentMoniker": "ProjectAllSample\\Models\\Loans.cs",
-              "ToolTip": "C:\\Users\\PRCO\\Documents\\GitHub\\ProjectAllSample\\ProjectAllSample\\ProjectAllSample\\Models\\Loans.cs",
-              "RelativeToolTip": "ProjectAllSample\\Models\\Loans.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-31T15:19:19.632Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Author.cs",
-              "DocumentMoniker": "C:\\Users\\PRCO\\Documents\\GitHub\\ProjectAllSample\\ProjectAllSample\\ProjectAllSample\\Models\\Author.cs",
-              "RelativeDocumentMoniker": "ProjectAllSample\\Models\\Author.cs",
-              "ToolTip": "C:\\Users\\PRCO\\Documents\\GitHub\\ProjectAllSample\\ProjectAllSample\\ProjectAllSample\\Models\\Author.cs",
-              "RelativeToolTip": "ProjectAllSample\\Models\\Author.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-30T14:49:08.682Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Member.cs",
-              "DocumentMoniker": "C:\\Users\\PRCO\\Documents\\GitHub\\ProjectAllSample\\ProjectAllSample\\ProjectAllSample\\Models\\Member.cs",
-              "RelativeDocumentMoniker": "ProjectAllSample\\Models\\Member.cs",
-              "ToolTip": "C:\\Users\\PRCO\\Documents\\GitHub\\ProjectAllSample\\ProjectAllSample\\ProjectAllSample\\Models\\Member.cs",
-              "RelativeToolTip": "ProjectAllSample\\Models\\Member.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-30T10:00:00.798Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Book.cs",
-              "DocumentMoniker": "C:\\Users\\PRCO\\Documents\\GitHub\\ProjectAllSample\\ProjectAllSample\\ProjectAllSample\\Models\\Book.cs",
-              "RelativeDocumentMoniker": "ProjectAllSample\\Models\\Book.cs",
-              "ToolTip": "C:\\Users\\PRCO\\Documents\\GitHub\\ProjectAllSample\\ProjectAllSample\\ProjectAllSample\\Models\\Book.cs",
-              "RelativeToolTip": "ProjectAllSample\\Models\\Book.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
+              "Title": "20260101135108_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Ara.soft\\source\\repos\\ProjectAllSample\\ProjectAllSample\\ProjectAllSample\\Migrations\\20260101135108_InitialCreate.cs",
+              "RelativeDocumentMoniker": "ProjectAllSample\\Migrations\\20260101135108_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Ara.soft\\source\\repos\\ProjectAllSample\\ProjectAllSample\\ProjectAllSample\\Migrations\\20260101135108_InitialCreate.cs",
+              "RelativeToolTip": "ProjectAllSample\\Migrations\\20260101135108_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-30T09:55:19.675Z",
+              "WhenOpened": "2026-01-01T13:51:08.79Z",
               "EditorCaption": ""
             }
           ]
