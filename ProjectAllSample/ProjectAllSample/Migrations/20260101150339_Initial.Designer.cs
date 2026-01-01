@@ -12,8 +12,8 @@ using ProjectAllSample.Data;
 namespace ProjectAllSample.Migrations
 {
     [DbContext(typeof(ProjectAllSampleContext))]
-    [Migration("20260101135108_InitialCreate")]
-    partial class InitialCreate
+    [Migration("20260101150339_Initial")]
+    partial class Initial
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
@@ -148,8 +148,9 @@ namespace ProjectAllSample.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<int>("PhoneNumber")
-                        .HasColumnType("int");
+                    b.Property<string>("PhoneNumber")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
 
                     b.Property<DateTime>("RegisterDate")
                         .HasColumnType("datetime2");

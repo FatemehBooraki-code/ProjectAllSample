@@ -19,9 +19,9 @@ namespace ProjectAllSample.Models
         public string NationalCode { get; set; }
 
         [DisplayName("شماره موبایل")]
-        [RegularExpression(@"^09\d{9}$", ErrorMessage = "شماره موبایل باید 11 رقمی و با 09 شروع شود")]
         [Required(ErrorMessage = "لطفا {0} را وارد کنید")]
-        public int PhoneNumber { get; set; }
+        [RegularExpression(@"^09\d{9}$", ErrorMessage = "شماره موبایل باید 11 رقمی و با 09 شروع شود")]
+        public string PhoneNumber { get; set; }
 
         [DisplayName("آدرس")]
         [Required(ErrorMessage = "لطفا {0} را وارد کنید")]

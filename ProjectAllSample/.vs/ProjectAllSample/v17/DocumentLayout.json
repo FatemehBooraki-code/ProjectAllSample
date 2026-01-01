@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Ara.soft\\source\\repos\\ProjectAllSample\\ProjectAllSample\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3C38EEB9-D318-4772-B033-1955C4B7C5CB}|ProjectAllSample\\ProjectAllSample.csproj|c:\\users\\ara.soft\\source\\repos\\projectallsample\\projectallsample\\projectallsample\\migrations\\20260101135108_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C38EEB9-D318-4772-B033-1955C4B7C5CB}|ProjectAllSample\\ProjectAllSample.csproj|solutionrelative:projectallsample\\migrations\\20260101135108_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3C38EEB9-D318-4772-B033-1955C4B7C5CB}|ProjectAllSample\\ProjectAllSample.csproj|c:\\users\\ara.soft\\source\\repos\\projectallsample\\projectallsample\\projectallsample\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3C38EEB9-D318-4772-B033-1955C4B7C5CB}|ProjectAllSample\\ProjectAllSample.csproj|solutionrelative:projectallsample\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C38EEB9-D318-4772-B033-1955C4B7C5CB}|ProjectAllSample\\ProjectAllSample.csproj|c:\\users\\ara.soft\\source\\repos\\projectallsample\\projectallsample\\projectallsample\\migrations\\20260101150339_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C38EEB9-D318-4772-B033-1955C4B7C5CB}|ProjectAllSample\\ProjectAllSample.csproj|solutionrelative:projectallsample\\migrations\\20260101150339_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C38EEB9-D318-4772-B033-1955C4B7C5CB}|ProjectAllSample\\ProjectAllSample.csproj|c:\\users\\ara.soft\\source\\repos\\projectallsample\\projectallsample\\projectallsample\\models\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C38EEB9-D318-4772-B033-1955C4B7C5CB}|ProjectAllSample\\ProjectAllSample.csproj|solutionrelative:projectallsample\\models\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,20 +22,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "20260101135108_InitialCreate.cs",
-              "DocumentMoniker": "C:\\Users\\Ara.soft\\source\\repos\\ProjectAllSample\\ProjectAllSample\\ProjectAllSample\\Migrations\\20260101135108_InitialCreate.cs",
-              "RelativeDocumentMoniker": "ProjectAllSample\\Migrations\\20260101135108_InitialCreate.cs",
-              "ToolTip": "C:\\Users\\Ara.soft\\source\\repos\\ProjectAllSample\\ProjectAllSample\\ProjectAllSample\\Migrations\\20260101135108_InitialCreate.cs",
-              "RelativeToolTip": "ProjectAllSample\\Migrations\\20260101135108_InitialCreate.cs",
+              "DocumentIndex": 1,
+              "Title": "20260101150339_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\Ara.soft\\source\\repos\\ProjectAllSample\\ProjectAllSample\\ProjectAllSample\\Migrations\\20260101150339_Initial.cs",
+              "RelativeDocumentMoniker": "ProjectAllSample\\Migrations\\20260101150339_Initial.cs",
+              "ToolTip": "C:\\Users\\Ara.soft\\source\\repos\\ProjectAllSample\\ProjectAllSample\\ProjectAllSample\\Migrations\\20260101150339_Initial.cs",
+              "RelativeToolTip": "ProjectAllSample\\Migrations\\20260101150339_Initial.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-01T13:51:08.79Z",
+              "WhenOpened": "2026-01-01T15:03:39.71Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Ara.soft\\source\\repos\\ProjectAllSample\\ProjectAllSample\\ProjectAllSample\\appsettings.json",
+              "RelativeDocumentMoniker": "ProjectAllSample\\appsettings.json",
+              "ToolTip": "C:\\Users\\Ara.soft\\source\\repos\\ProjectAllSample\\ProjectAllSample\\ProjectAllSample\\appsettings.json",
+              "RelativeToolTip": "ProjectAllSample\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-01T14:52:22.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Member.cs",
+              "DocumentMoniker": "C:\\Users\\Ara.soft\\source\\repos\\ProjectAllSample\\ProjectAllSample\\ProjectAllSample\\Models\\Member.cs",
+              "RelativeDocumentMoniker": "ProjectAllSample\\Models\\Member.cs",
+              "ToolTip": "C:\\Users\\Ara.soft\\source\\repos\\ProjectAllSample\\ProjectAllSample\\ProjectAllSample\\Models\\Member.cs",
+              "RelativeToolTip": "ProjectAllSample\\Models\\Member.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T14:48:46.262Z"
             }
           ]
         }
